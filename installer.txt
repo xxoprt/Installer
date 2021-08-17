@@ -62,6 +62,7 @@ pkg install proot-distro
 pkg install net-tools
 pkg install golang
 pkg install chroot
+pkg install kona
 termux-chroot -y
 pkg install macchanger
 pkg install wireshark
