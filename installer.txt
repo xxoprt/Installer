@@ -88,6 +88,7 @@ pip install screencapture
 pip install linkedinner
 pip install hunterio
 pip install hosthunter
+pip install wordlist
 pip install dnsdumpster
 pip install buckethunter
 pip install checkers
@@ -100,6 +101,7 @@ pip2 install bs4
 pip2 install tqdm
 pip2 install futures
 pip2 install colorama
+pip2 install wordlist
 pip2 install pymongo
 pip2 install netaddr
 pip2 install argparse
@@ -123,6 +125,7 @@ pip3 install requests
 pip3 install mechanize
 pip3 install bs4
 pip3 install tqdm
+pip3 install wordlist
 pip3 install futures
 pip3 install colorama
 pip3 install pymongo
