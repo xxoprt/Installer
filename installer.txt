@@ -15,6 +15,7 @@ pkg install openssl -y
 pkg install nano -y 
 pkg install mc -y 
 pkg install sl -y
+pkg install nodejs
 pkg install cmatrix -y
 pkg install jq -y
 pkg install git
@@ -51,6 +52,8 @@ pkg install havij
 pkg install cowsay
 gem install lolcat
 pkg install google
+pkg install libwebp
+pkg install ffmpeg
 pkg install wireshark
 pkg install wgetrc
 pkg install vpn
